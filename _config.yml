@@ -1,0 +1,33 @@
+# Dependencies
+markdown:         redcarpet
+redcarpet:
+  extensions: ["tables"]
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Jason Yin
+tagline:          'Entrepreneur and Angel investor in Bejing, China'
+url:              http://www.cydog.cn
+shorturl:         cydog.com
+
+author:
+  name:           'Jason Yin'
+  url:            https://twitter.com/jasonyin
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           github.com/jiansongy/jiansongy.github.io
+
+# This is the list of pages to include in the header of the website.
+pages_list:       
+  About: '/about/'
+  Archive: '/archive/'
+  Feed: '/atom.xml'
+
+gems: [jekyll-paginate]
