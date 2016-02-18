@@ -1,6 +1,6 @@
 # jiansongy.github.io
 
-这个库是Jason的个人博客网站(www.cydog.cn)的当前文件库。
+这个库是Jason的个人博客网站 (www.cydog.cn) 的底层文件库。
 
 1、关于本库的使用，请看本库中的思维导图文件《轻松五步 极简建站》
 2、github pages会自动用本库中的文件来生成一个静态网站，不必多虑
