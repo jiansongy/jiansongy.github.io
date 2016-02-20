@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Jason Yin</title>
+ <link href="http://www.cydog.cn/atom.xml" rel="self"/>
+ <link href="http://www.cydog.cn/"/>
+ <updated>2016-02-20T07:39:50+08:00</updated>
+ <id>http://www.cydog.cn</id>
+ <author>
+   <name>Jason Yin</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>“这些年我追过的编程学习”</title>
+   <link href="http://www.cydog.cn/“campus-vc-camp”"/>
+   <updated>2016-02-20T00:00:00+08:00</updated>
+   <id>http://www.cydog.cn/campus-vc-camp</id>
+   <content type="html">&lt;h1&gt;校园VC创投营设想&lt;/h1&gt;
+
+&lt;p&gt;在2016年春节期间，我通过网上大量学习和线下大段时间思考，对校园VC的具体运营模式—『创投营』，有如下的设想。&lt;/p&gt;
+
+&lt;h2&gt;校园VC项目背景&lt;/h2&gt;
+
+&lt;p&gt;2015年的10月份，受到美国RoughDraft.vc的『在校生当VC』的模式启发，刘辉、刘力和我，在北京中关村创业大街的车库咖啡发起了校园VC项目。这个项目的愿景是，成为领先的大学生创业的种子期投资机构和创新学院，使命是推动大学生的创新创业。&lt;/p&gt;
+
+&lt;p&gt;经过2015年11月到2016年1月的三个月时间，尤其是2016年1月9日在中关村软件园的数字山谷举办『新年创业大趴』和春节期间的Spring微信群讲座活动，我们项目取得了飞速发展。目前已经有了300多位种子期用户和20多位志愿者，还积累了一批早期项目的资源。&lt;/p&gt;
+
+&lt;p&gt;随着国家在大力推动『全民创新 万众创业』的大形势下，各大学从教学中心到科研中心、再到创新创业中心非常急迫，都在纷纷设立创新创业学院。校园VC正好可以抓住大学教育中这股潮流，以自己的独特方式，来挖掘具备：1.酷炫产品潜质、2.卓越人才团队和、3.坚定使命感去改变世界的好项目。&lt;/p&gt;
+
+&lt;p&gt;2016校园VC的全年目标，是通过开设春秋两期创投营，来投资10-20个大学生创业项目。在2016年春天，我们将会开始第一期校园VC创投营。本文是为了清晰化具体运营模式，而做的设想文档，以便团队的共识。&lt;/p&gt;
+
+&lt;h2&gt;创投营的设计思想&lt;/h2&gt;
+
+&lt;p&gt;首先我们认为大学生创业有其自身的独特优势：具备想象力、创造力和充裕时间、校园有人才土壤、渴求学习新东西；但是也有其先天不足，比如眼界、经验和能力不够、资金匮乏等等。因此，我们会把校园VC聚焦在互联网软件方向。因为只有在这个方向上，全球丰富活跃的开源知识库触手可及、并且启动成本最低。&lt;/p&gt;
+
+&lt;p&gt;其次我们认为，世界上最好的大学有三所GYW（Google、Youtube、Wikipedia），最好的学习方式是RSA（Read、Search、Ask）。因此我们是自组织学习环境（简称SOLE，详见&lt;a href=&quot;https://www.theschoolinthecloud.org/&quot;&gt;Sugata Mitra教授的网站&lt;/a&gt;）的坚定信仰者。校园VC创投营，将结合当前大学生创新创业的热点，设计一个90天的系列挑战任务，让大学生组成团队去协作完成。&lt;/p&gt;
+
+&lt;p&gt;最后作为大学生互联网创业，起步会遇到的两个问题，分别是产品（从0到1）和营销（从1到10甚至100以上）。产品方向，我们将聚焦在&lt;strong&gt;Javascript&lt;/strong&gt;软件开发技术，引导大学生们去”做中学”React前端技术、Meteor平台系统和Telegram/WeChat软件功能。营销方向，我们将与&lt;a href=&quot;http://www.wikiedu.org/&quot;&gt;Wikipedia教育基金会&lt;/a&gt;合作，引导大学生去”做中学”&lt;strong&gt;中国大学生创新创业百科&lt;/strong&gt;项目。我们将会把产品内容与营销内容进行穿插，比如单周安排产品内容、双周安排营销内容。&lt;/p&gt;
+
+&lt;h2&gt;产品方向的挑战任务&lt;/h2&gt;
+
+&lt;p&gt;在产品方向上，美国旧金山的&lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;FreeCodeCamp&lt;/a&gt;和英国伦敦&lt;a href=&quot;http://www.foundersandcoders.com/&quot;&gt;Founders and Coders&lt;/a&gt;，给我们提供了很好的模式借鉴。互联网上有大量的鲜活的软件开发技术学习资料，根据SOLE的思想，我们只要给学生提供挑战任务和互助环境即可，配有少量的志愿导师是可选项。&lt;/p&gt;
+
+&lt;p&gt;学习产品内容，需要学生自带MacBook（校园VC可协助联系租赁服务）、有一定的英文基础和对软件开发的强烈好奇心。在校园VC志愿导师的指导下，学生们将会以4人小组、一周时间为单位，来完成如下的软件开发项目：
+1. 个人任务清单；
+2. 社会化新闻讨论板；
+3. 本地二手交易市场；
+4. 微信公众号Telegram机器人；
+5. 微信Telegram社群创新等。&lt;/p&gt;
+
+&lt;p&gt;每周除了做上述已经命题的挑战之外，团队还接受各个大学生创业者来申请，安排其参加每周的创业项目路演。因为如果路演成功、团队被激发热情了的话，团队可以在完成挑战的基础上，决定帮助该创业者来开发最早期的软件原型。&lt;/p&gt;
+
+&lt;h2&gt;营销方向的挑战任务&lt;/h2&gt;
+
+&lt;p&gt;在营销方向上，上述的维基百科Wikiedu和清华大学工业工程系顾学雍教授设计的&lt;a href=&quot;https://github.com/clonn/xlp&quot;&gt;XLP极限学习课&lt;/a&gt;，已经给我们提供了很好的工作框架。大学生团队将在双周中，分成相互竞赛的小组，在目前校园VC种子用户1群运营群讲座的基础上，展开大规模网上协作，共同编撰校园VC*&lt;em&gt;中国大学生创新创业百科&lt;/em&gt;。&lt;/p&gt;
+
+&lt;p&gt;我们设想这个『大创百科』（暂用名），将是一个像Wikipedia一样具备自身生命力、基业长青的共协开源项目，并且辅之以Youtube类型的视频和Google类型的搜索引擎，极致风格、直击人心，并且充分调动广大青年学生的贡献热情。每年底，还将会在&lt;a href=&quot;https://www.gitbook.com&quot;&gt;Gitbook&lt;/a&gt;上以电子书的形式做一次结集出版。&lt;/p&gt;
+
+&lt;p&gt;初步设想营销方向的挑战任务有：
+1. 设计项目架构；
+3. 微信推广及运营流程；
+4. 大创百科内容模块设计；
+5. 网上共协编撰流程；
+6. 结集出版管理等。&lt;/p&gt;
+
+&lt;p&gt;在推动大学生创新创业的大使命下，该百科的业务目标是：第一手鲜活地描绘出中国大学生创新创业的前沿总面貌。对大学生读者来说，可以被同龄人的创业事迹激励、并且迅速上路、找同伴和资源等。对于大学创业教育老师来说，可以检验创业教育是否真正与一线的学生创业实践相结合。对于社会大众来说，可以更好了解和支持大学生创新创业。&lt;/p&gt;
+
+&lt;h2&gt;结束语&lt;/h2&gt;
+
+&lt;p&gt;本文是对90天校园VC创投营的初步设想，肯定有很多不足之处和考虑不周的地方，希望各位战友能在仔细阅读后提出修改意见，以便早日达成共识。非常感谢！&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>轻松五步 极简建站</title>
+   <link href="http://www.cydog.cn/first-post-on-cydog"/>
+   <updated>2016-02-15T00:00:00+08:00</updated>
+   <id>http://www.cydog.cn/filters-first-post-on-cydog</id>
+   <content type="html">&lt;p&gt;我用了2016年春节假期中的三天，学习了Markdown、Github和Jekyll等新技术，做了一个属于自己的极简博客网站，现在你可以访问&lt;a href=&quot;http://www.cydog.cn&quot;&gt;它&lt;/a&gt;了。在本文中，我将会一步步地教你：尽量不编程的情况下，如何来实现这个目标。&lt;/p&gt;
+
+&lt;h2&gt;为什么要建个人博客网站&lt;/h2&gt;
+
+&lt;p&gt;随着微信的蓬勃发展，很多人都有自己的微信公众号，但是有个人网站的还是少数。我相信拥有高质量的个人网站能够让你的能力得到进一步锻炼、形象得到进一步提升。&lt;/p&gt;
+
+&lt;p&gt;但是建个人博客网站整个过程的痛点比较多：
+1. 建站平台比较难用，不管是Wordpress还是DedeCMS都有学习门槛
+2. 网站开发好，上传到云主机上也比较费劲，不稳定、要花钱、不好更新等等
+3. 最痛苦的是，要搞定多终端响应式页面需要很多前端技术（得懂编程）
+所以很多人对此都望而却步了。虽然有类似Strikingly等免费的建站服务，但是稍微要多一些功能（比如独立域名）就要收费了。&lt;/p&gt;
+
+&lt;h2&gt;我今天教你的方法可以轻松建站&lt;/h2&gt;
+
+&lt;p&gt;这个轻松来自于我之前不断踩坑、再跳出来之后，总结出来的一些优秀做法。当然这也取决于你的技术熟悉度。是有一定技术含量，但你如能耐心跟着做的话，可以避免编程。通过改改内容，就可以搭建出自己的漂亮而免费的个人网站，还是很吸引人的。&lt;/p&gt;
+
+&lt;p&gt;我将会分为五个部分来介绍：
+1. 前期准备
+2. 在网上搭建网站
+3. 在本地机上搭建网站并上传
+4. 用极简风格来定制
+5. 内容发布流程&lt;/p&gt;
+
+&lt;h2&gt;一、前期准备&lt;/h2&gt;
+
+&lt;p&gt;首先需要注册一个个人域名，可以在万网上申请，几十元一年的很低的费用。因为我们的网站将会在国外服务器上托管，所以不必做周期冗长的域名备案。其次在Github上申请一个账号、&lt;a href=&quot;https://guides.github.com/activities/hello-world/&quot;&gt;学习下其用法&lt;/a&gt;。如果对文本编辑工具（比如我用的Sublime Text等）和Markdown语言，做一些初步了解的话，有加分。&lt;/p&gt;
+
+&lt;p&gt;然后我建议用一个MacBook来做这个网站，因为我们用到的网站服务器是Jekyll。它本身是基于Ruby的，在Mac系统上的支持比较好。另外翻墙工具比如&lt;a href=&quot;https://github.com/getlantern/lantern&quot;&gt;Lantern&lt;/a&gt;也是必备的，因为很多技术问题在Google上一查就很清楚，比百度效果好多了。&lt;/p&gt;
+
+&lt;h2&gt;二、在网上搭建网站系统&lt;/h2&gt;
+
+&lt;p&gt;我们采用的是&lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;系统来搭建网站。这个网站非常快速而稳定、在国内也可以访问、并且更妙的是托管完全&lt;strong&gt;免费&lt;/strong&gt;。你可以按照Github Pages网站上说明，分三步来创建一个”个人或者组织的网站”&lt;/p&gt;
+
+&lt;p&gt;第一步在你的Github账号下创建一个叫username.github.io的库，注意这里的命名很&lt;em&gt;严格&lt;/em&gt;，必须这个格式来。第二步，在库里创建一个CNAME文件，其中只有一行文字，就是你注册的那个网址，比如www.yoursite.com。第三步是到你的域名服务商（比如万网）那里做一个CNAME解析，来指向这个username.github.io。&lt;/p&gt;
+
+&lt;p&gt;这时候在这个库中，手工写个最简单的Hello World的index.html文件放进去。然后把你本机上的浏览器打开，访问www.yoursite.com，是不是能看到这个index.html上的内容了。是不是很有成就感？如果过程中遇到问题的话，可以查看这里的&lt;a href=&quot;https://help.github.com/categories/github-pages-basics/&quot;&gt;帮助&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h2&gt;三、在本地机上搭建网站系统并且上传&lt;/h2&gt;
+
+&lt;p&gt;如果网站只是一个简单的HTML，那就太丑陋了，并且也不方便后期持续更新内容和做内容管理等等。所以一个叫&lt;a href=&quot;http://www.jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;的大角色要上场了。这家伙的学名叫”静态页面生成器”。如果你听说过Wordpress的博客网站系统，那么我就告诉一点就行了：Jekyll等于是现代简约版的Wordpress系统。&lt;/p&gt;
+
+&lt;p&gt;我之前有过与Wordpress这个著名的网站系统打交道的体验，一句话&lt;strong&gt;过于复杂&lt;/strong&gt;。不是专门学习和使用它的人，可是搞不定它。所以Jekyll，以百事可乐挑战可口可乐的姿态出现，成为我们年青一代的不二选择，呵呵。&lt;/p&gt;
+
+&lt;p&gt;在Mac上安装Jekyll不是一件容易的事，有三个坑等着你去跳。因为Jekyll官网上的醒目说明”好简单的安装啊”，是为了国外环境下的有技术背景的人准备的，说我还是建议你按照这个中国人写的如何安装的&lt;a href=&quot;http://xiangxy.com/blog/mac%E4%B8%8Bjekyll%E7%9A%84%E5%AE%89%E8%A3%85%E4%B8%8E%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8/&quot;&gt;博客文章&lt;/a&gt;来一步步安装，就不会踩到坑里挑不出来。我按照他说的方式，就安装成功了，感谢那个作者！&lt;/p&gt;
+
+&lt;p&gt;接着在本地机上，你安装一个Github的桌面客户端，把username.github.io的库给同步下来到本机上的一个文件夹。然后把Jekyll运行后产生的那个静态网站（在.site文件夹中），整个拷贝到这个库的文件夹中。再次打开Github桌面客户端，Commit所有的变化（即文件拷贝进去了），点击右上角的Sync按钮，就可以把本地机的网站上传到互联网上去。&lt;/p&gt;
+
+&lt;p&gt;再次在你的Mac或者手机上，打开浏览器，访问www.yoursite.com。乌拉，这次你能看到的是：由Jekylly在本地生成的那个静态网站了。路线跑通了，下面就是如何来定制该静态网站的事了。&lt;/p&gt;
+
+&lt;h2&gt;四、定制化本地机的静态网站&lt;/h2&gt;
+
+&lt;p&gt;这个定制化，分为知行合一两个方面。知是指从知识层面，武装起来对Jekyll的概念性认知，推荐其&lt;a href=&quot;http://jekyllrb.com/docs/home/&quot;&gt;官方文档&lt;/a&gt;来学习（说实话有点难懂）和国外某网友写的更浅显的&lt;a href=&quot;http://jmcglone.com/guides/github-pages/&quot;&gt;动手操作指南&lt;/a&gt;（比较推荐）。阅读这些文档，不在于掌握多少细节，在于熟悉起来Jekyll的整体概念。&lt;/p&gt;
+
+&lt;p&gt;从行的角度，代码细节最好还是用别人的改改来用。我从网上找到一篇很好的&lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;用Jekyll建博客文章&lt;/a&gt;，比较喜欢他追求的极简风格和安装的插件功能。所以我在Github中找到了该作者的代码库，Folk（分支化复制）了一套到我自己的Github账号下。再通过Github桌面客户端同步到本地机上，然后打开那些代码文件，做了一些修改。&lt;/p&gt;
+
+&lt;p&gt;好消息是你不必做这些修改了，只要Folk我这个已经修改好的&lt;a href=&quot;https://github.com/jiansongy/jiansongy.github.io&quot;&gt;代码库&lt;/a&gt;到你自己的username.github.io的库里，就可以马上使用了。喔，也不是马上能用，还要在你本地机的命令行中运行sudo gem install来安装两个插件，因为作者用到了它们，分别叫jekyll-paginate和redcarpet。在命令行中，分别把这两个名字写到sudo gem install之后，进行运行即可。&lt;/p&gt;
+
+&lt;h2&gt;五、内容发布流程&lt;/h2&gt;
+
+&lt;p&gt;通过上面这些步骤，你在本地机上访问这个静态网站，就能看到我现在发布在我自己的www.cydog.cn的网站效果：
+1、首页是最新的一篇博客文章的全文展示
+2、上部有三个菜单项，分别是关于本站、文章清单、RSS订阅链接
+3、底部有三个功能：向前或向后翻阅其他文章、进行Disqus评论和分享到Twitter
+4、还有一个隐藏的功能是加入了Google Analytics的流量统计插件&lt;/p&gt;
+
+&lt;p&gt;接下来讲讲如何发布新的博客文章。你只要在本地机上的库中，在posts文件夹中，加入新的Markdown格式的文件即可做新文章发布，但要遵循下面三条。&lt;/p&gt;
+
+&lt;p&gt;首先在帖子的顶部加入一个Jekyll 称为Front Matter的内容，比如：&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;layout: post
+title: “任意你想要写的文章标题”
+comments: true
+permalink: “title-of-this”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;其次，把文件名称&lt;strong&gt;严格&lt;/strong&gt;命名为: YYYY-MM-DD-title-of-this.md。这里的title-of-this不能出现重复现象。&lt;/p&gt;
+
+&lt;p&gt;最后，再通过我在第三步中讲过的，同步本地机文件夹，到你在网上的库username.github.io中去，就可以自动让你的网站显示出来这个新的帖子了，Jekyll会自动把各种细节都照顾好的，感谢Jekyll大侠。&lt;/p&gt;
+
+&lt;h1&gt;后记&lt;/h1&gt;
+
+&lt;p&gt;我就把这篇博客文章，放在我个人博客网站上，做为开业大喜的第一篇文章了，期待你在下面留言讨论互动。对于留言的朋友，为了便于你看清楚配置过程，我还提供了额外Bonus：本文章的思维导图版本，作为礼物附赠。谢谢！&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

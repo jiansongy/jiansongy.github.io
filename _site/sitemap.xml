@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://www.cydog.cn</loc>
+    <lastmod>2016-02-20T07:39:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+    <url>
+      <loc>http://www.cydog.cn/“campus-vc-camp”</loc>
+      
+        <lastmod>2016-02-20T00:00:00+08:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+  
+    <url>
+      <loc>http://www.cydog.cn/first-post-on-cydog</loc>
+      
+        <lastmod>2016-02-15T00:00:00+08:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+  
+  
+  <url>
+    <loc>http://www.cydog.cn/404/</loc>
+    
+      <lastmod>2016-02-20</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.cydog.cn/about/</loc>
+    
+      <lastmod>2016-02-20</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.cydog.cn/archive/</loc>
+    
+      <lastmod>2016-02-20</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.cydog.cn/atom.xml</loc>
+    
+      <lastmod>2016-02-20</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.cydog.cn/</loc>
+    
+      <lastmod>2016-02-20</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.cydog.cn/page2/</loc>
+    
+      <lastmod>2016-02-20</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+</urlset>
