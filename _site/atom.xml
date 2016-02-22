@@ -4,7 +4,7 @@
  <title>Jason Yin</title>
  <link href="http://www.cydog.cn/atom.xml" rel="self"/>
  <link href="http://www.cydog.cn/"/>
- <updated>2016-02-20T07:39:50+08:00</updated>
+ <updated>2016-02-22T14:04:01+08:00</updated>
  <id>http://www.cydog.cn</id>
  <author>
    <name>Jason Yin</name>
@@ -13,63 +13,73 @@
 
  
  <entry>
-   <title>“这些年我追过的编程学习”</title>
-   <link href="http://www.cydog.cn/“campus-vc-camp”"/>
-   <updated>2016-02-20T00:00:00+08:00</updated>
-   <id>http://www.cydog.cn/campus-vc-camp</id>
-   <content type="html">&lt;h1&gt;校园VC创投营设想&lt;/h1&gt;
+   <title>科学上网、设计挑战和趋势驱动的创新</title>
+   <link href="http://www.cydog.cn/“feb-posts”"/>
+   <updated>2016-02-22T00:00:00+08:00</updated>
+   <id>http://www.cydog.cn/feb-posts</id>
+   <content type="html">&lt;p&gt;本文是微信公众号&amp;quot;米贵创业狗&amp;quot;的创业狗周内参之二月结集&lt;/p&gt;
 
-&lt;p&gt;在2016年春节期间，我通过网上大量学习和线下大段时间思考，对校园VC的具体运营模式—『创投营』，有如下的设想。&lt;/p&gt;
+&lt;h2&gt;一、科学上网大杀器&lt;/h2&gt;
 
-&lt;h2&gt;校园VC项目背景&lt;/h2&gt;
+&lt;h3&gt;好产品：Lantern（灯笼）&lt;/h3&gt;
 
-&lt;p&gt;2015年的10月份，受到美国RoughDraft.vc的『在校生当VC』的模式启发，刘辉、刘力和我，在北京中关村创业大街的车库咖啡发起了校园VC项目。这个项目的愿景是，成为领先的大学生创业的种子期投资机构和创新学院，使命是推动大学生的创新创业。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;官网介绍&lt;/strong&gt;：Lantern是一个互联网代理工具。它能帮助你访问被封锁的网站。&lt;/p&gt;
 
-&lt;p&gt;经过2015年11月到2016年1月的三个月时间，尤其是2016年1月9日在中关村软件园的数字山谷举办『新年创业大趴』和春节期间的Spring微信群讲座活动，我们项目取得了飞速发展。目前已经有了300多位种子期用户和20多位志愿者，还积累了一批早期项目的资源。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;建松体验&lt;/strong&gt;：下载、安装、运行，只三步即可飚速。再没有比Lantern更流畅的科学上网体验了，还因为P2P方式而免费！灯笼照亮我们寻找新知的道路。&lt;/p&gt;
 
-&lt;p&gt;随着国家在大力推动『全民创新 万众创业』的大形势下，各大学从教学中心到科研中心、再到创新创业中心非常急迫，都在纷纷设立创新创业学院。校园VC正好可以抓住大学教育中这股潮流，以自己的独特方式，来挖掘具备：1.酷炫产品潜质、2.卓越人才团队和、3.坚定使命感去改变世界的好项目。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;点评&lt;/strong&gt;：优点是易用和飚速。缺点是尚未能内外网智能分流。&lt;/p&gt;
 
-&lt;p&gt;2016校园VC的全年目标，是通过开设春秋两期创投营，来投资10-20个大学生创业项目。在2016年春天，我们将会开始第一期校园VC创投营。本文是为了清晰化具体运营模式，而做的设想文档，以便团队的共识。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;趋势主题&lt;/strong&gt;：资源访问&lt;/p&gt;
 
-&lt;h2&gt;创投营的设计思想&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;总分&lt;/strong&gt;：五星&lt;/p&gt;
 
-&lt;p&gt;首先我们认为大学生创业有其自身的独特优势：具备想象力、创造力和充裕时间、校园有人才土壤、渴求学习新东西；但是也有其先天不足，比如眼界、经验和能力不够、资金匮乏等等。因此，我们会把校园VC聚焦在互联网软件方向。因为只有在这个方向上，全球丰富活跃的开源知识库触手可及、并且启动成本最低。&lt;/p&gt;
+&lt;h3&gt;网址：&lt;a href=&quot;http://www.github.com/getlantern&quot;&gt;getLantern.com&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;其次我们认为，世界上最好的大学有三所GYW（Google、Youtube、Wikipedia），最好的学习方式是RSA（Read、Search、Ask）。因此我们是自组织学习环境（简称SOLE，详见&lt;a href=&quot;https://www.theschoolinthecloud.org/&quot;&gt;Sugata Mitra教授的网站&lt;/a&gt;）的坚定信仰者。校园VC创投营，将结合当前大学生创新创业的热点，设计一个90天的系列挑战任务，让大学生组成团队去协作完成。&lt;/p&gt;
+&lt;hr&gt;
 
-&lt;p&gt;最后作为大学生互联网创业，起步会遇到的两个问题，分别是产品（从0到1）和营销（从1到10甚至100以上）。产品方向，我们将聚焦在&lt;strong&gt;Javascript&lt;/strong&gt;软件开发技术，引导大学生们去”做中学”React前端技术、Meteor平台系统和Telegram/WeChat软件功能。营销方向，我们将与&lt;a href=&quot;http://www.wikiedu.org/&quot;&gt;Wikipedia教育基金会&lt;/a&gt;合作，引导大学生去”做中学”&lt;strong&gt;中国大学生创新创业百科&lt;/strong&gt;项目。我们将会把产品内容与营销内容进行穿插，比如单周安排产品内容、双周安排营销内容。&lt;/p&gt;
+&lt;h2&gt;二、每天一个设计挑战&lt;/h2&gt;
 
-&lt;h2&gt;产品方向的挑战任务&lt;/h2&gt;
+&lt;h3&gt;好模式：Daily UI（每日用户界面）&lt;/h3&gt;
 
-&lt;p&gt;在产品方向上，美国旧金山的&lt;a href=&quot;http://www.freecodecamp.com/&quot;&gt;FreeCodeCamp&lt;/a&gt;和英国伦敦&lt;a href=&quot;http://www.foundersandcoders.com/&quot;&gt;Founders and Coders&lt;/a&gt;，给我们提供了很好的模式借鉴。互联网上有大量的鲜活的软件开发技术学习资料，根据SOLE的思想，我们只要给学生提供挑战任务和互助环境即可，配有少量的志愿导师是可选项。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;官网介绍&lt;/strong&gt;：连续100天(周一到周五)，每天给你发一个设计挑战任务。你设计作品出来后，发到社交媒体上去，与同行们互动成长。DailyUI会精选投稿的作品，选集持续发布到&lt;a href=&quot;http://collectui.com/&quot;&gt;CollectUI&lt;/a&gt;。&lt;/p&gt;
 
-&lt;p&gt;学习产品内容，需要学生自带MacBook（校园VC可协助联系租赁服务）、有一定的英文基础和对软件开发的强烈好奇心。在校园VC志愿导师的指导下，学生们将会以4人小组、一周时间为单位，来完成如下的软件开发项目：
-1. 个人任务清单；
-2. 社会化新闻讨论板；
-3. 本地二手交易市场；
-4. 微信公众号Telegram机器人；
-5. 微信Telegram社群创新等。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;建松体验&lt;/strong&gt;：美轮美奂的作品选集，光浏览就能提升自身审美。这是结伴挑战式的新型网上教育模式，并且极具病毒传播性。&lt;/p&gt;
 
-&lt;p&gt;每周除了做上述已经命题的挑战之外，团队还接受各个大学生创业者来申请，安排其参加每周的创业项目路演。因为如果路演成功、团队被激发热情了的话，团队可以在完成挑战的基础上，决定帮助该创业者来开发最早期的软件原型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;点评&lt;/strong&gt;：优势是像健身一样每天练习、与同行一起互动提升。劣势是每天的频率过高、任务有点架空，建议改为每周发一个现实问题挑战，来设计头脑风暴。&lt;/p&gt;
 
-&lt;h2&gt;营销方向的挑战任务&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;趋势主题&lt;/strong&gt;：成长社群&lt;/p&gt;
 
-&lt;p&gt;在营销方向上，上述的维基百科Wikiedu和清华大学工业工程系顾学雍教授设计的&lt;a href=&quot;https://github.com/clonn/xlp&quot;&gt;XLP极限学习课&lt;/a&gt;，已经给我们提供了很好的工作框架。大学生团队将在双周中，分成相互竞赛的小组，在目前校园VC种子用户1群运营群讲座的基础上，展开大规模网上协作，共同编撰校园VC*&lt;em&gt;中国大学生创新创业百科&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;总分&lt;/strong&gt;：四星&lt;/p&gt;
 
-&lt;p&gt;我们设想这个『大创百科』（暂用名），将是一个像Wikipedia一样具备自身生命力、基业长青的共协开源项目，并且辅之以Youtube类型的视频和Google类型的搜索引擎，极致风格、直击人心，并且充分调动广大青年学生的贡献热情。每年底，还将会在&lt;a href=&quot;https://www.gitbook.com&quot;&gt;Gitbook&lt;/a&gt;上以电子书的形式做一次结集出版。&lt;/p&gt;
+&lt;h3&gt;网址：&lt;a href=&quot;https://dailyui.co/&quot;&gt;DailyUI.co&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;初步设想营销方向的挑战任务有：
-1. 设计项目架构；
-3. 微信推广及运营流程；
-4. 大创百科内容模块设计；
-5. 网上共协编撰流程；
-6. 结集出版管理等。&lt;/p&gt;
+&lt;hr&gt;
 
-&lt;p&gt;在推动大学生创新创业的大使命下，该百科的业务目标是：第一手鲜活地描绘出中国大学生创新创业的前沿总面貌。对大学生读者来说，可以被同龄人的创业事迹激励、并且迅速上路、找同伴和资源等。对于大学创业教育老师来说，可以检验创业教育是否真正与一线的学生创业实践相结合。对于社会大众来说，可以更好了解和支持大学生创新创业。&lt;/p&gt;
+&lt;h2&gt;三、趋势驱动的创新&lt;/h2&gt;
 
-&lt;h2&gt;结束语&lt;/h2&gt;
+&lt;h3&gt;月读会：《Trend-Driven Innovation》&lt;/h3&gt;
 
-&lt;p&gt;本文是对90天校园VC创投营的初步设想，肯定有很多不足之处和考虑不周的地方，希望各位战友能在仔细阅读后提出修改意见，以便早日达成共识。非常感谢！&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;官网介绍&lt;/strong&gt;：本书是在消费趋势驱动下推进创新的完整手册。观察从业者，而不是消费者，是洞察人们下一步想要什么的反直觉的秘密。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;建松体验&lt;/strong&gt;：不管是询问、观察还是大数据，都很难了解消费者下一步想要什么。在期望值经济中，业者创新对消费者期望值的提升，会快速转移。所以从消费者奔走相告的业者创新上连点成线，才能看到消费趋势。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;点评&lt;/strong&gt;：本书重点分析了当今四大消费趋势：关怀物联网，女性崛起，透明炫丑，传统走红。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;趋势主题&lt;/strong&gt;：由内及外&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;总分&lt;/strong&gt;：五星&lt;/p&gt;
+
+&lt;h3&gt;网址：&lt;a href=&quot;http://trendwatching.com/trends/turn-overwhelm-into-opportunity&quot;&gt;trenddriveninnovation.com&lt;/a&gt;&lt;/h3&gt;
+
+&lt;hr&gt;
+
+&lt;h2&gt;四、创业狗内参介绍&lt;/h2&gt;
+
+&lt;p&gt;创业狗是专注互联网&lt;strong&gt;学.创.投&lt;/strong&gt;的米贵创业营内参，由16年创业狗建松，每周一写原创檄文，助你激情创业！&lt;/p&gt;
+
+&lt;p&gt;春节后，建松将从原来的微信好文精粹，改为每周一篇原创檄文，解析全球互联网”学.创.投”前沿，&lt;strong&gt;直击人心&lt;/strong&gt;的好产品、好模式和好思想。&lt;/p&gt;
+
+&lt;p&gt;从2016年开始，米贵创业狗已推出_私密_创业社群年度服务，可以直接发邮件给917013389 # qq.com，来申请加入。也可以直接回复意见建议，多谢反馈！&lt;/p&gt;
 </content>
  </entry>
  
