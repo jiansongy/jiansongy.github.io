@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.cydog.cn</loc>
-    <lastmod>2016-03-08T08:56:38+08:00</lastmod>
+    <lastmod>2016-03-14T08:53:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  
+    <url>
+      <loc>http://www.cydog.cn/“mar-posts”</loc>
+      
+        <lastmod>2016-03-14T00:00:00+08:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
   
     <url>
       <loc>http://www.cydog.cn/zero2hero</loc>
@@ -38,7 +47,7 @@
   <url>
     <loc>http://www.cydog.cn/404/</loc>
     
-      <lastmod>2016-03-08</lastmod>
+      <lastmod>2016-03-14</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -51,7 +60,7 @@
   <url>
     <loc>http://www.cydog.cn/about/</loc>
     
-      <lastmod>2016-03-08</lastmod>
+      <lastmod>2016-03-14</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -64,7 +73,7 @@
   <url>
     <loc>http://www.cydog.cn/archive/</loc>
     
-      <lastmod>2016-03-08</lastmod>
+      <lastmod>2016-03-14</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -77,7 +86,7 @@
   <url>
     <loc>http://www.cydog.cn/atom.xml</loc>
     
-      <lastmod>2016-03-08</lastmod>
+      <lastmod>2016-03-14</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -90,7 +99,7 @@
   <url>
     <loc>http://www.cydog.cn/</loc>
     
-      <lastmod>2016-03-08</lastmod>
+      <lastmod>2016-03-14</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -103,7 +112,7 @@
   <url>
     <loc>http://www.cydog.cn/page2/</loc>
     
-      <lastmod>2016-03-08</lastmod>
+      <lastmod>2016-03-14</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -116,7 +125,20 @@
   <url>
     <loc>http://www.cydog.cn/page3/</loc>
     
-      <lastmod>2016-03-08</lastmod>
+      <lastmod>2016-03-14</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.cydog.cn/page4/</loc>
+    
+      <lastmod>2016-03-14</lastmod>
     
     
       <changefreq>monthly</changefreq>
