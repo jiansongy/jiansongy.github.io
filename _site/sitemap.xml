@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://www.cydog.cn</loc>
-    <lastmod>2016-03-14T08:53:52+08:00</lastmod>
+    <lastmod>2016-03-14T11:34:51+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  
+    <url>
+      <loc>http://www.cydog.cn/“why-encourage”</loc>
+      
+        <lastmod>2016-03-14T00:00:00+08:00</lastmod>
+      
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
   
     <url>
       <loc>http://www.cydog.cn/“mar-posts”</loc>
@@ -137,6 +146,19 @@
   
   <url>
     <loc>http://www.cydog.cn/page4/</loc>
+    
+      <lastmod>2016-03-14</lastmod>
+    
+    
+      <changefreq>monthly</changefreq>
+    
+    
+      <priority>0.3</priority>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.cydog.cn/page5/</loc>
     
       <lastmod>2016-03-14</lastmod>
     
