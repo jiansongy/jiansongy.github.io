@@ -5,7 +5,7 @@ comments: true
 permalink: "april-posts"
 ---
 
-# 创业狗周内参的四月合集
+本文是微信公众号"米贵创业狗"的周内参之四月合集
 
 ## 好产品 Code.org App Lab
 标题：编程学习初体验
