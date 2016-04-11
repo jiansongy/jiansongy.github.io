@@ -2,7 +2,7 @@
 layout: post
 title: "请停止BB，一起来鼓励大学生创业！"
 comments: true
-permalink: “why-encourage”
+permalink: "why-encourage"
 ---
 
 ## Why鼓励大学生创业？
