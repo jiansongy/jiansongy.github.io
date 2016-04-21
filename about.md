@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About 殷建松Jason
 ---
 
 ![Here I am at a conference.](/assets/jason.jpg)
-# 殷建松Jason的个人简历
 
 ## 校园VC合伙人、著名企业家、社会知名人士
 
@@ -25,15 +24,23 @@ title: About
 ## English Resume of Jason Yin
 
 2015-now Founder and Partner of Campus VC
+
 2008-2015 CEO and Chair of Director of Edutainment Toys
+
 2005-2008 Managing Director of In-Stat China
+
 1998-2005 Sales and Marketing Professional of Microsoft China
 
 1996-1997 MBA study of Maastricht School of Management, the Netherlands
+
 1989-1993 Undergraduate of University of International Business and Economics, Beijing China
-1971 Born in Zhejiang, China
+
+1971 Born in Jiaxing, Zhejiang, China
 
 ## 更多信息 More information
 
+联系殷先生，可以发邮件给他的QQ邮箱：917013389
+
 殷先生的阅读笔记在：http://www.medium.com/@jasonyin
-殷先生曾经写过的米贵创业营博客在：http://zhuanlan.zhihu.com/RiceBox
+
+殷先生曾经写作的米贵创业营博客在：http://zhuanlan.zhihu.com/RiceBox
