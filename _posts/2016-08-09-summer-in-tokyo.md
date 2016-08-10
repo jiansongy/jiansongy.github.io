@@ -1,3 +1,10 @@
+---
+layout: post
+title: "2016年暑假东京度假记"
+Comments: true
+permalink: "summer-in-tokyo"
+---
+
 2016年暑假东京度假游记
 
 时间：2016年8月3日-6日
