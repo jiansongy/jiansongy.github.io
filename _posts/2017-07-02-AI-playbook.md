@@ -6,7 +6,7 @@ layout: post
 
 ## 什么是AI入门剧本？
 
-AI入门剧本是A16Z公司的Frank Chen所推出的一个人工智能（AI）免费在线入门课。Andreessen Horowitz（简称a16z）是美国的顶尖创投公司之一。他们像创业者一般经营着创投公司，有团队全方位地在协助新创公司进行运营。可以通过其网站aiplaybook.a16z.com[http://aiplaybook.a16z.com/]去访问AI入门剧本。
+AI入门剧本是A16Z公司的Frank Chen所推出的一个人工智能（AI）免费在线入门课。Andreessen Horowitz（简称a16z）是美国的顶尖创投公司之一。他们像创业者一般经营着创投公司，有团队全方位地在协助新创公司进行运营。可以通过其网站aiplaybook.a16z.com去访问AI入门剧本。
 
 ![aiplaybook](/assets/aiplaybook.png)
 
