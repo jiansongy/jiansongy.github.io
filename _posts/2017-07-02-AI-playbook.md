@@ -1,5 +1,5 @@
 ---
-title: AI入门剧本
+title: 面向业务人员的AI入门剧本
 date: '2017-07-02 5:05:47'
 layout: post
 ---
