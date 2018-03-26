@@ -7,7 +7,7 @@ title: About 殷建松Jason
 
 ## 校园VC合伙人、最受欢迎的创业布道师
 
-殷建松，校园VC创始合伙人、创业布道师、天使投资人。兼任清华x-lab创业导师、爱就推门公司董事、中国高校创新创业教育联盟投融资委员会副秘书长。《创业的乐趣》和《从零到英雄》作者，曾任微软Windows产品经理和IDG战略咨询公司In-Stat总经理。1997年MBA毕业于荷兰马斯特里赫特管理学院，1993年本科毕业于对外经济贸易大学国际金融专业。
+殷建松，校园VC创始合伙人、创业布道师、天使投资人。兼任教育部互联网+大赛国际赛道专家委员会委员、清华x-lab兼职顾问、清华iCenter创客导师、北京大学研究生院投资导师、中国高校创新创业教育联盟投融资委员会副秘书长。《创业的乐趣》和《从零到英雄》作者，曾任微软Windows产品经理和IDG战略咨询公司In-Stat总经理。1997年MBA毕业于荷兰马斯特里赫特管理学院，1993年本科毕业于对外经济贸易大学国际金融专业。
 
 ## 工作经历
 
@@ -33,15 +33,17 @@ title: About 殷建松Jason
 
 《创业的乐趣》 http://www.duokan.com/book/28712
 
+![Jason's Honor](/assets/JasonHonor.png)
+
 ## English Resume of Jason Yin
 
-Most-welcomed Evangelist of Entrepreneurship
+A Leading Evangelist of Entrepreneurship
 
-2015-now Founder and Partner of Campus VC
+2016-now Founder and Partner of Campus VC
 
 2008-2015 CEO and Chair of Director of Edutainment Toys
 
-2005-2008 Managing Director of In-Stat China
+2005-2008 Managing Director of In-Stat China in IDG
 
 1998-2005 Sales and Marketing Professional of Microsoft China
 
@@ -56,5 +58,3 @@ Most-welcomed Evangelist of Entrepreneurship
 联系殷先生，可以发邮件给他的QQ邮箱：917013389
 
 殷先生的阅读笔记在他的微博上：http://www.weibo.com/jiansongy
-
-殷先生的Jason创业导师专栏在：https://zhuanlan.zhihu.com/Jasonyin
